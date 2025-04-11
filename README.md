@@ -1,1 +1,1 @@
-"# GitTutorials" 
+# GitTutorials from the MLOps course
